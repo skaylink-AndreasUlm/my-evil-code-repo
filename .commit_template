@@ -1,0 +1,16 @@
+<fix|feat|BREAKING CHANGE|docs|test>(scope): short description about change
+
+# optionally detailed description, remove when not used
+Detailed description
+with list of changes:
+
+* file1 change foo
+* file2 change bar
+* file3 implement API change for issue #123
+
+### samples
+# fix: short description about change1
+# feature(api): short description about change2
+
+
+# checkout https://www.conventionalcommits.org/ for further possibilities
